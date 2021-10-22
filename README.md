@@ -9,7 +9,7 @@ Team members included:
 4. Carley Holtz
 
 Inspired by Goodreads, a legitimate media review site, our team setout to meet the requirements of the final class project.
-Built with the Object Oriented Programming approach and hosted on phpmyadmin servers and databases.
+Built with the Object Oriented Programming approach and hosted on phpmyadmin databases and XAMPP servers.
 
 Have a look around and test our features! 
 
